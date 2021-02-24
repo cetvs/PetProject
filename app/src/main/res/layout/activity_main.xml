@@ -15,16 +15,15 @@
         android:textAllCaps="false"
         android:textColor="#FFFFFF"
 
-        app:layoutDescription="@drawable/ic_play"
-
         android:textSize="14dp"
+
+        app:layoutDescription="@drawable/ic_play"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.548"
-         />
+        app:layout_constraintVertical_bias="0.418" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
